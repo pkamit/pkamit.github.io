@@ -78062,7 +78062,7 @@ A.yp.prototype={
 ao(){return new A.RH(B.k)}}
 A.RH.prototype={
 J(a){var s=null,r=t.N
-return A.alp(A.Vw(s,s,!0,B.l5,s,1,s,0,!1,s,s,s,s,s,A.p_(),!0,s,s,s,s,s,A.cB("Services",s,s,s,A.bW(s,s,B.l,s,s,s,s,s,s,s,s,20,s,s,B.ak,s,s,!0,s,1,s,s,s,s,s,s),s,s),s,s,s,1,s),s,A.ju(A.aoQ(new A.ag3(this),new A.a7q(A.aA(["X-Brodos-Api-Key",u.H],r,r)).wz(),t.xF),s,s))},
+return A.alp(A.Vw(s,s,!0,B.l5,s,1,s,0,!1,s,s,s,s,s,A.p_(),!0,s,s,s,s,s,A.cB("Services",s,s,s,A.bW(s,s,B.l,s,s,s,s,s,s,s,s,20,s,s,B.ak,s,s,!0,s,1,s,s,s,s,s,s),s,s),s,s,s,1,s),s,A.ju(A.aoQ(new A.ag3(this),new A.a7q(A.aA(["X-Brodos-Api-Key",u.H,"Origin","qashop-s4.brodos.shop"],r,r)).wz(),t.xF),s,s))},
 a9J(a){var s=A.by(a,null,t.w).w.a.a
 if(s<600)return 2
 else if(s<900)return 3
