@@ -78024,7 +78024,7 @@ A.uk.prototype={
 ao(){return new A.Ms(B.k)}}
 A.Ms.prototype={
 J(a){var s=null,r=A.Vw(s,s,!0,B.l5,s,1,s,0,!1,s,s,s,s,s,A.p_(),!0,s,s,s,s,s,A.cB("Appointments",s,s,s,A.bW(s,s,B.l,s,s,s,s,s,s,s,s,20,s,s,B.ak,s,s,!0,s,1,s,s,s,s,s,s),s,s),s,s,s,1,s),q=A.ap2(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!1,s,s,s,"Search",s,s,s,s,s,s,s,s,s,s,s,s,s),p=t.N
-return A.alp(r,s,A.mZ(A.a([new A.z6(q,B.Lx,B.Kv,B.Kw,new A.aaL(this),!0,s),A.vC(A.ju(A.aoQ(new A.aaM(),new A.VG(A.aA(["X-Brodos-Api-Key",u.H,"Access-Control-Allow-Origin","*"],p,p)).wy(),t.ni),s,s),1)],t.E),B.aG,B.bY,B.b4))}}
+return A.alp(r,s,A.mZ(A.a([new A.z6(q,B.Lx,B.Kv,B.Kw,new A.aaL(this),!0,s),A.vC(A.ju(A.aoQ(new A.aaM(),new A.VG(A.aA(["X-Brodos-Api-Key",u.H,"Origin","qashop-s4.brodos.shop"],p,p)).wy(),t.ni),s,s),1)],t.E),B.aG,B.bY,B.b4))}}
 A.aaL.prototype={
 $1(a){var s=this.a
 s.ak(new A.aaK(s,a))},
@@ -78062,7 +78062,7 @@ A.yp.prototype={
 ao(){return new A.RH(B.k)}}
 A.RH.prototype={
 J(a){var s=null,r=t.N
-return A.alp(A.Vw(s,s,!0,B.l5,s,1,s,0,!1,s,s,s,s,s,A.p_(),!0,s,s,s,s,s,A.cB("Services",s,s,s,A.bW(s,s,B.l,s,s,s,s,s,s,s,s,20,s,s,B.ak,s,s,!0,s,1,s,s,s,s,s,s),s,s),s,s,s,1,s),s,A.ju(A.aoQ(new A.ag3(this),new A.a7q(A.aA(["X-Brodos-Api-Key",u.H,"Access-Control-Allow-Origin","*"],r,r)).wz(),t.xF),s,s))},
+return A.alp(A.Vw(s,s,!0,B.l5,s,1,s,0,!1,s,s,s,s,s,A.p_(),!0,s,s,s,s,s,A.cB("Services",s,s,s,A.bW(s,s,B.l,s,s,s,s,s,s,s,s,20,s,s,B.ak,s,s,!0,s,1,s,s,s,s,s,s),s,s),s,s,s,1,s),s,A.ju(A.aoQ(new A.ag3(this),new A.a7q(A.aA(["X-Brodos-Api-Key",u.H,"Origin","qashop-s4.brodos.shop"],r,r)).wz(),t.xF),s,s))},
 a9J(a){var s=A.by(a,null,t.w).w.a.a
 if(s<600)return 2
 else if(s<900)return 3
