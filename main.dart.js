@@ -77948,7 +77948,7 @@ A.VG.prototype={
 wy(){var s=0,r=A.Z(t.ni),q,p=this,o
 var $async$wy=A.a_(function(a,b){if(a===1)return A.W(b,r)
 while(true)switch(s){case 0:s=3
-return A.a1(A.atw(A.mb("https://pkamit.github.io/https://qashop-s4.brodos.shop/wp-json/brodos/v1/getShopAppointments"),p.a),$async$wy)
+return A.a1(A.atw(A.mb("https://qashop-s4.brodos.shop/wp-json/brodos/v1/getShopAppointments"),p.a),$async$wy)
 case 3:o=b
 if(o.b===200){q=A.h3(J.p8(J.be(B.by.dl(0,A.atk(A.asg(o.e).c.a.h(0,"charset")).dl(0,o.w)),"appointments"),new A.VH(),t.z),!0,t.D4)
 s=1
@@ -77963,7 +77963,7 @@ A.a7q.prototype={
 wz(){var s=0,r=A.Z(t.xF),q,p=this,o
 var $async$wz=A.a_(function(a,b){if(a===1)return A.W(b,r)
 while(true)switch(s){case 0:s=3
-return A.a1(A.atw(A.mb("https://pkamit.github.io/https://qashop-s4.brodos.shop/wp-json/brodos/v1/getShopDataAll"),p.a),$async$wz)
+return A.a1(A.atw(A.mb("https://qashop-s4.brodos.shop/wp-json/brodos/v1/getShopDataAll"),p.a),$async$wz)
 case 3:o=b
 if(o.b===200){q=A.h3(J.p8(J.be(B.by.dl(0,A.atk(A.asg(o.e).c.a.h(0,"charset")).dl(0,o.w)),"products"),new A.a7r(),t.z),!0,t.BI)
 s=1
