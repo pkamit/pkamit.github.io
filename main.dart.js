@@ -77948,7 +77948,7 @@ A.VG.prototype={
 wy(){var s=0,r=A.Z(t.ni),q,p=this,o,n,m
 var $async$wy=A.a_(function(a,b){if(a===1)return A.W(b,r)
 while(true)switch(s){case 0:s=3
-return A.a1(A.atw(A.mb("https://pkamit.github.io/https://qashop-s4.brodos.shop/wp-json/brodos/v1/getShopAppointments"),p.a),$async$wy)
+return A.a1(A.atw(A.mb("https://qashop-s4.brodos.shop/wp-json/brodos/v1/getShopAppointments"),p.a),$async$wy)
 case 3:n=b
 m=n.b
 if(m===200){q=A.h3(J.p9(J.be(B.by.dl(0,A.atk(A.asg(n.e).c.a.h(0,"charset")).dl(0,n.w)),"appointments"),new A.VH(),t.z),!0,t.D4)
